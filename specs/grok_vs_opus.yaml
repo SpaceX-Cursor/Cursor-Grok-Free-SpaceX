@@ -1,0 +1,5 @@
+model: grok-4.7
+compare_against: opus-5.5
+modes:
+  - reasoning
+  - fast
